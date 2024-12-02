@@ -1,0 +1,6 @@
+0 0 dedos
+1 1 dedo
+2 2 dedos
+3 3 dedos
+4 4 dedos
+5 5 dedos
